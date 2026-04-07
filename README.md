@@ -1,9 +1,21 @@
-# Coding Agent Wisdom
+# What Is Peter Steinberger's Workflow?
 
-This repo is a plain distillation of Peter Steinberger's writing on coding agents and agentic engineering at [steipete.me](https://steipete.me/).
+This repo tries to answer one simple question: what is Peter Steinberger's workflow for coding with agents?
+
+It is a plain distillation of Peter Steinberger's writing on coding agents and agentic engineering at [steipete.me](https://steipete.me/).
 
 It is meant to be short.
 It is meant to help real work.
+
+## Source Archive
+
+The full source posts now live in `sources/peter-steinberger-blog/posts/`.
+
+They were copied on April 7, 2026 from Peter Steinberger's public website repo:
+
+- upstream repo: `https://github.com/steipete/steipete.me`
+- upstream commit: `01506429797d8097a5722deba2a0224741fb1613`
+- archive scope: 108 Markdown blog posts
 
 ## The Main Things
 
@@ -124,7 +136,7 @@ If yes, the workflow is probably sound.
 
 ## Peter's Current Setup
 
-This is my best public reading as of April 5, 2026.
+This is my best public reading as of April 7, 2026.
 It is based on his latest posts from August 2025 to February 2026, plus his public GitHub profile.
 
 The short version:

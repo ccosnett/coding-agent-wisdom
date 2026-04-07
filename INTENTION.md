@@ -1,8 +1,10 @@
-# Intention
+# What Is Peter Steinberger's Workflow?
 
-This project is a simple attempt to gather practical wisdom about using coding agents.
+This project asks a simple question: what is Peter Steinberger's workflow for using coding agents well?
 
 It begins with the writing of Peter Steinberger at `https://steipete.me/`.
+
+The full source archive now lives in `sources/peter-steinberger-blog/posts/`.
 
 The aim is not to create noise.
 The aim is to read carefully, extract what is useful, and distill it into a clear `README.md`.
