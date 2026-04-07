@@ -345,6 +345,44 @@ References:
 - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer): he says Ghostty is native, not Electron-based, and faster
 - [Command your Claude Code Army, Reloaded](https://steipete.me/posts/2025/commanding-your-claude-code-army): shows one pain point in Ghostty and how he works around it for many concurrent agent sessions
 
+### Q8. How does Peter use Wispr Flow?
+
+Answer:
+
+He seems to use Wispr Flow mainly as a voice-first input tool.
+The point is not "AI writing for him" in the abstract.
+The point is to get more thought into the prompt, faster.
+
+His public use cases include:
+
+- dictating rough ideas into AI Studio when starting a project
+- turning rambling spoken prompts into long, useful instructions for coding agents
+- talking through blog ideas with Claude so it can draft in his style
+
+The practical value seems to be:
+
+- faster capture of messy thoughts
+- more context in the prompt
+- less friction than typing long instructions
+
+This fits the broader pattern in his workflow:
+
+- talk plainly
+- give the model real intent and reason
+- let the model turn rough input into something structured
+
+So the short answer is:
+
+- Wispr Flow is part of how he keeps prompts natural, high-context, and fast to produce
+- it appears to be an input accelerator, not the center of the workflow
+
+References:
+
+- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it): he says Wispr Flow with semantic correction is still king
+- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow): he says he mostly dictates ideas via Wispr Flow into AI Studio to shape a software design document
+- [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer): he says he uses Wispr Flow to talk with Claude and draft posts in his style
+- [Poltergeist: The Ghost That Keeps Your Builds Fresh](https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh): he says he uses Wispr Flow and that long spoken prompts with reasoning help agents build the right thing
+
 ## Notes
 
 See [NOTES.md](NOTES.md) for source notes and supporting references.
