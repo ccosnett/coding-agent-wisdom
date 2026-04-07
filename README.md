@@ -302,6 +302,49 @@ References:
 
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed): he says many things start as CLI because agents can call them directly and verify output
 
+### Q7. Why does he use Ghostty instead of another terminal such as iTerm?
+
+Answer:
+
+I did not find a public post where he directly says "I chose Ghostty over iTerm because of X."
+So the careful answer is an inference from what he does say.
+
+The pattern seems to be:
+
+- he wants a fast native terminal
+- he wants something stable under heavy agent use
+- he wants several agent sessions visible at once
+- he wants the terminal to stay simple and out of the way
+
+His own direct statements are:
+
+- Ghostty is his main terminal
+- VS Code's terminal was too unstable for him
+- Ghostty is native, not Electron-based, and faster
+
+There is also indirect evidence from how he works:
+
+- he keeps multiple agent terminals open on one ultrawide display
+- he cares a lot about terminal titles, session visibility, and steerability
+- he repeatedly prefers plain terminal workflows over heavier layers
+
+So the short answer is:
+
+- he appears to value speed, stability, native behavior, and low friction more than terminal feature sprawl
+- Ghostty seems to fit that better for his agent-heavy workflow
+
+One caveat:
+
+Ghostty is not perfect for him.
+He even wrote a workaround for terminal titles because multiple tabs all showing the same process name is annoying.
+That actually makes the preference more convincing, because he still uses Ghostty despite that weakness.
+
+References:
+
+- [My Current AI Dev Workflow](https://steipete.me/posts/2025/optimal-ai-development-workflow): Ghostty is his main setup, VS Code terminal was too unstable, and he values a wide multi-agent layout
+- [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer): he says Ghostty is native, not Electron-based, and faster
+- [Command your Claude Code Army, Reloaded](https://steipete.me/posts/2025/commanding-your-claude-code-army): shows one pain point in Ghostty and how he works around it for many concurrent agent sessions
+
 ## Notes
 
 See [NOTES.md](NOTES.md) for source notes and supporting references.
