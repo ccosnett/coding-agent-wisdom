@@ -1,6 +1,6 @@
-# What Is Peter Steinberger's Workflow?
+# How Peter Steinberger Uses Coding Agents
 
-This project asks a simple question: what is Peter Steinberger's workflow for using coding agents well?
+This project asks a simple question: how does Peter Steinberger use coding agents well in practice?
 
 It begins with the writing of Peter Steinberger at `https://steipete.me/`.
 

@@ -1,11 +1,13 @@
-# What Is Peter Steinberger's Workflow?
+# How Peter Steinberger Uses Coding Agents
 
-This repo tries to answer one simple question: what is Peter Steinberger's workflow for coding with agents?
+This repo tries to answer one simple question: how does Peter Steinberger use coding agents in practice?
 
 It is a plain distillation of Peter Steinberger's writing on coding agents and agentic engineering at [steipete.me](https://steipete.me/).
 
 It is meant to be short.
 It is meant to help real work.
+
+Open research questions live in `QUESTIONS.md`.
 
 ## Source Archive
 
